@@ -1,4 +1,4 @@
--Hi, I’m Kijomsz
+-Hi, I’m Kijomsz\n
 -I’m interested in incremental games
 -I’m currently learning c#
 -How to reach me: Kijomsz#0878 on Discord
